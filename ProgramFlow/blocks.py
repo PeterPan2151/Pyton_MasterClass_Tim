@@ -9,3 +9,5 @@ elif age == 900:
 else:
     print("You are old enough to vote")
     print("Please put an X in the box")
+
+
